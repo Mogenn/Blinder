@@ -10,7 +10,7 @@ Usage: python3 blinder.py -u [URL] -v [GET/URL] -p [PARAMETERS]
 
 Flags: 
 
-[-h] [--help]: help page.фаззин
+[-h] [--help]: help page.
 [--url] [-u]: url to target.
 [-v] [--verbs]: HTTP verb (GET, POST, PUT and etc...).
 [-p] [--parameters]: parameters for the target.
